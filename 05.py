@@ -18,7 +18,7 @@ for i in range(2,x):
             k=i**n
             n=n+1
         list.append(k)
-        print(list)
+       # print(list)
 product=1
 for element in list:
    product=product*element
